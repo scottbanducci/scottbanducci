@@ -1,4 +1,4 @@
-I'm Scott Banducci and I believe the key to success is hard work, dedication and perseverance.
+Business Development professional who defected to the light side of the force and learned advanced ML/NLP techniques while receiving my CS degree at UBC. Technical experience includes, ML/NLP, APIs, web frameworks, scripting and automation, Systems engineering, SECRET level security and compliance for Government of Canada private cloud(NIST 800-53B HIGH), networking, LLM agents, and more.
 
 My core values are honesty, integrity and dedication to my work and my colleagues.
 
